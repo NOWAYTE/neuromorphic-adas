@@ -1,1 +1,1 @@
-ADAS
+Lightweight real time ADAS system that fuses mulitmodal sensing including neuromorphic vision thermal imaging and acoustic signals to detect low visibility hazards and ultra-fast intrusions 
