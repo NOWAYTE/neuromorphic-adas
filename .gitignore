@@ -1,0 +1,79 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode and other IDE settings
+.vscode/
+.idea/
+
+# Python logs
+*.log
+
+# PyInstaller
+*.spec
+dist/
+build/
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# System files
+Thumbs.db
+
+# Data and output
+*.h5
+*.hdf5
+*.ckpt
+*.pt
+*.pth
+*.tflite
+*.onnx
+*.pb
+*.npz
+*.npy
+*.csv
+*.json
+*.yaml
+*.yml
+
+# Simulation
+CARLA_*
+
+# Checkpoints and cache
+checkpoints/
+cache/
+logs/
+output/
+runs/
+wandb/
+
+# TensorBoard
+events.out.tfevents.*
+
+# Pycharm
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Compiled C extensions
+*.so
+
+# Temporary files
+*.tmp
+*.swp
+
+# Colab/Google Drive
+.gdrive/
